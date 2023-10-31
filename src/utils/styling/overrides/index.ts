@@ -1,0 +1,1 @@
+export { font, monoFont, fontWeight, header } from '@/src/utils/styling/overrides/typography';
